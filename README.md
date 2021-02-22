@@ -1,8 +1,8 @@
 # Discord Parser RSS Bot
 
 Discord Parser RSS is a simple Discord bot built on Python that does two things:
-- Brings your RSS subscriptions for last 24 hours on command;
-- Parses web-sites and prints text directly into channel.
+- Bring your RSS subscriptions for last 24 hours on command;
+- Parse web-sites and prints text directly into channel.
 
 ## Getting it started:
 1. Clone this repository and **keep it private**.
