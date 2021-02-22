@@ -9,7 +9,7 @@ Discord Parser RSS is a simple Discord bot built on Python that does two things:
 2. At [Discord Developer Portal](https://discord.com/developers/applications) create new application. Remember `Client ID`.
 3. At application page on Discord Developer Portal create a bot and save token (**KEEP IT SECRET**.)
 4. Create a Discord Server or be sure to have bot-inviting rights on existing one.
-5. Invite your bot to server by link: https://discord.com/oauth2/authorize?client_id=`Client ID numbers`&scope=bot.
+5. Invite your bot to server by link: https://discord.com/oauth2/authorize?client_id=**[`Client ID numbers`]**&scope=bot.
 6. Get back to GitHub and save your token in code, 11th line. *Alternatively, there are ways to load your token into file. Discussed below.*
 7. Create a [Heroku](https://dashboard.heroku.com/) account.
 8. Create a new App with unique name. On `Settings` page in `Buildpack` choose Python.
